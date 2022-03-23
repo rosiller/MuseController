@@ -122,3 +122,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Unity
+/3-UnityGames
+
+# TensorboardData
+/0-TensorboardData
+
+# TrainedModels and others
+/1-Model/*.net
+training.py
+DataCleaning.ipynb
+/2-Data/*.npy
+/2-Data/2-PreprocessedData/*
